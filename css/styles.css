@@ -19,8 +19,17 @@ h3 {
   color: #66bfbf;
 }
 
+a {
+  color: #66bfbf;
+}
+
+a:hover {
+  color: gray;
+}
+
 /**  Class Style  **/
 
 .heading:hover {
   color: black;
+  font-style: normal;
 }
